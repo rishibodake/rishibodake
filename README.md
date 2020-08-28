@@ -32,7 +32,7 @@
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/rishibodake
-[2]: http://www.facebook.com/rishibodakei
+[2]: http://www.facebook.com/rishibodake
 [3]: http://www.github.com/rishibodake
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Selenium Automation Using C#
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ML
+- 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Java, C#, Shell & Automation
 - 📫 Reach me at rishibodake@gmail.com
 - ⚡ Fun fact: The first programmer in the world was a woman. Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
