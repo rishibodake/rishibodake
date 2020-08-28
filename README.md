@@ -1,4 +1,4 @@
-### This there, This is Hrishikesh 👋
+### Hi there, This is Hrishikesh 👋
 
 <!--
 **rishibodake/rishibodake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
