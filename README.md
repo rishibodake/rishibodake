@@ -38,7 +38,7 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Selenium Automation Using C#
+- 🔭 I’m currently working on Selenium Automation Using Java
 - 🌱 I’m currently working on RPA tool Automation Anywhere
 - 🤔 Some knowledge on Azure 
 - 💬 Ask me about Java, C#, Shell & Automation
